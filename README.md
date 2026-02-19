@@ -76,10 +76,10 @@ These filters allow deeper exploration of sales performance.
 
 ## 📷 Dashboard Preview
 
-> *(![Dashboard Preview](images/dashboard.png.png))*
+> *(![Dashboard Preview](images/dashboard.png))*
 
 ```
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](dashboard.png)
 ```
 
 ---
