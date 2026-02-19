@@ -76,7 +76,7 @@ These filters allow deeper exploration of sales performance.
 
 ## 📷 Dashboard Preview
 
-> *(![Dashboard Preview](images/dashboard.png))*
+> *(![Dashboard Preview](dashboard.png))*
 
 ```
 ![Dashboard Preview](dashboard.png)
